@@ -52,10 +52,16 @@
 Структуру отобразил ниже
 
 ### Стукрутура хост приложения 
-![Host structure](images/host.png)
+<img alt="Host structure" height="40%" src="images/host.png" width="40%"/>
 
-### Стукрутура users приложения 
-![Users structure](images/users.png)
+<hr />
+
+
+### Стукрутура users приложения
+<img alt="Users structure" height="40%" src="images/users.png" width="40%"/>
+
+<hr />
 
 ### Стукрутура cards приложения
-![Cards structure](images/cards.png)
+<img alt="Cards structure" height="40%" src="images/cards.png" width="40%"/>
+<hr />
