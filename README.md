@@ -64,3 +64,14 @@
 #### Стукрутура cards приложения
 <img alt="Cards structure" height="40%" src="images/cards.png" width="40%"/>
 <hr />
+
+
+# Задание 2. Декомпозирование веб-приложения
+
+Не до конца было понятно задание, постарался потоки данных между сервисами. Так же хочу подстветить 2 нюанса
+1. Так и не смог покрасить стрелочки и сервисы в красный цвет. Draw.io мне не дался :)
+2. Не уверен, что правильно шарю, поэтому добавил ссылку на draw.io и на саму диаграмму
+
+Ссылка на draw.io - https://app.diagrams.net/#G13eP88pulyzH0O4xQRMlzWFA71RZL2mYd#%7B%22pageId%22%3A%22fjTxGfFFKktdyyrigxll%22%7D
+
+Cсылка на диаграмму - https://drive.google.com/file/d/13eP88pulyzH0O4xQRMlzWFA71RZL2mYd/view?usp=share_link
